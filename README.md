@@ -27,4 +27,4 @@ https://drive.google.com/file/d/1Hr97CyBsPwW9Ysp8Xg6azBFAxtoTVPyx/view?usp=shari
 
 При запуске программы перед пользователем открывается меню. На данном этапе все кнопки находятся в нерабочем состоянии.
 
-![alt text](screenshots/1.png "")
+![Image](screenshots/1.PNG)
